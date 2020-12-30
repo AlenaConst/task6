@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1603570252 source:f:\3_semestr\task7\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+
+1604747168 source:f:\3_semestr\task7(на самом деле 6)\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<algorithm>
+
+1604747222 source:e:\3_semestr\task7(на самом деле 6)\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<algorithm>
+
